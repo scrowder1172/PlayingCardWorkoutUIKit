@@ -90,7 +90,6 @@
                         <outlet property="cardImageView" destination="2bN-Ua-0Qa" id="deT-8k-n8f"/>
                         <outletCollection property="buttons" destination="UXw-M3-bSh" collectionClass="NSMutableArray" id="c70-my-ZAu"/>
                         <outletCollection property="buttons" destination="6GV-g7-oFi" collectionClass="NSMutableArray" id="g4e-fy-jNK"/>
-                        <outletCollection property="buttons" destination="Of1-9M-sDq" collectionClass="NSMutableArray" id="wYq-30-yF5"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
