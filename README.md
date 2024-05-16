@@ -2,6 +2,11 @@
 
 This project is based off Sean Allen's iOS Dev beginner course. This project includes two branches. One branch is for the storyboard version. The other branch is for the UIKit programmatic version. The user is given a random card which will then tell them which workout to perform.
 
+## Enhancements
+I created two branches. One branch includes in the storyboard code. This branch has been synced with the master branch.
+The other branch includes the programmatic approach.
+Both branches work. Just be sure you're on the correct branch when using/modifying the code.
+
 ## How to install
 
 1. fork the project or download the .zip
