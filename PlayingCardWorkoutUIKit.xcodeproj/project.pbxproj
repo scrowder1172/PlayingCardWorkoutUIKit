@@ -14,6 +14,7 @@
 		5291D2E02BF56B2400841FA5 /* Card.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5291D2DF2BF56B2400841FA5 /* Card.swift */; };
 		5291D2E22BF5774900841FA5 /* CardSelectionVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5291D2E12BF5774900841FA5 /* CardSelectionVC.swift */; };
 		5291D2E42BF57A3D00841FA5 /* CWButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5291D2E32BF57A3D00841FA5 /* CWButton.swift */; };
+		5291D2E62BF5A95500841FA5 /* RulesVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5291D2E52BF5A95500841FA5 /* RulesVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		5291D2DF2BF56B2400841FA5 /* Card.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Card.swift; sourceTree = "<group>"; };
 		5291D2E12BF5774900841FA5 /* CardSelectionVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionVC.swift; sourceTree = "<group>"; };
 		5291D2E32BF57A3D00841FA5 /* CWButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CWButton.swift; sourceTree = "<group>"; };
+		5291D2E52BF5A95500841FA5 /* RulesVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RulesVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				5291D2CB2BF55ECE00841FA5 /* SceneDelegate.swift */,
 				5291D2E12BF5774900841FA5 /* CardSelectionVC.swift */,
 				5291D2E32BF57A3D00841FA5 /* CWButton.swift */,
+				5291D2E52BF5A95500841FA5 /* RulesVC.swift */,
 				5291D2DF2BF56B2400841FA5 /* Card.swift */,
 				5291D2D22BF55ECF00841FA5 /* Assets.xcassets */,
 				5291D2D42BF55ECF00841FA5 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			files = (
 				5291D2E42BF57A3D00841FA5 /* CWButton.swift in Sources */,
 				5291D2CA2BF55ECE00841FA5 /* AppDelegate.swift in Sources */,
+				5291D2E62BF5A95500841FA5 /* RulesVC.swift in Sources */,
 				5291D2E22BF5774900841FA5 /* CardSelectionVC.swift in Sources */,
 				5291D2CC2BF55ECE00841FA5 /* SceneDelegate.swift in Sources */,
 				5291D2E02BF56B2400841FA5 /* Card.swift in Sources */,
