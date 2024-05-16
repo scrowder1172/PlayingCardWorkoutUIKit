@@ -11,9 +11,9 @@ class CardSelectionVC: UIViewController {
 
     let cardImageView: UIImageView  = UIImageView()
     
-    let stopButton: CWButton    = CWButton(backgroundColor: .systemRed, title: "Stop")
-    let resetButton: CWButton   = CWButton(backgroundColor: .systemGreen, title: "Reset")
-    let rulesButton: CWButton   = CWButton(backgroundColor: .systemBlue, title: "Rules")
+    let stopButton: CWButton    = CWButton(color: .systemRed, title: "Stop", systemImageName: "stop.circle")
+    let resetButton: CWButton   = CWButton(color: .systemGreen, title: "Reset", systemImageName: "arrow.clockwise.circle")
+    let rulesButton: CWButton   = CWButton(color: .systemBlue, title: "Rules", systemImageName: "list.bullet")
     
     let cards: [UIImage]        = CardDeck.allValues
     
