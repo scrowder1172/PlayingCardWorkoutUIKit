@@ -1,5 +1,5 @@
 //
-//  Card.swift
+//  CardDeck.swift
 //  PlayingCardWorkoutUIKit
 //
 //  Created by SCOTT CROWDER on 5/15/24.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-struct Deck {
+struct CardDeck {
     static var allValues = [
         UIImage(named: "2H")!,
         UIImage(named: "3H")!,
